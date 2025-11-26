@@ -61,8 +61,6 @@ A comprehensive, multi-platform Flutter app that helps students and individuals 
 
 </div>
 
-```
-
 ---
 
 ## 📱 Download APK
@@ -330,6 +328,7 @@ Add your contact or support channel here:
 ---
 
 Empowering financial wellness through intelligent design, robust architecture, and delightful user experience—thanks for exploring, and happy tracking!
+
 
 
 
