@@ -59,23 +59,6 @@ A comprehensive, multi-platform Flutter app that helps students and individuals 
      style="max-width: 800px; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.15);">
 </a>
 
-<br>
-
-### 🎬 **Watch the Full Demo on YouTube**
-
-[![Watch Video](https://img.shields.io/badge/▶️_Watch_Full_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/watch?v=MluEDQ58BUw)
-[![YouTube](https://img.shields.io/badge/📱_App_Walkthrough-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=MluEDQ58BUw)
-
-**Experience the complete feature tour with financial insights**
-
-**Demo Highlights:**
-- 💰 Smart expense tracking and categorization
-- 📊 Budget management with real-time alerts
-- 🎯 Savings goals with progress tracking
-- 📈 Interactive analytics and charts
-- 🎨 Beautiful glassmorphic UI design
-- 🌗 Light & dark theme switching
-
 </div>
 
 ```
@@ -347,5 +330,6 @@ Add your contact or support channel here:
 ---
 
 Empowering financial wellness through intelligent design, robust architecture, and delightful user experience—thanks for exploring, and happy tracking!
+
 
 
