@@ -71,7 +71,7 @@ A comprehensive, multi-platform Flutter app that helps students and individuals 
 Experience Smart Expense Tracker instantly on your Android device.
 
 <p align="center">
-  <a href="https://github.com/your-org/smart-expense-tracker/releases/latest/download/smart-expense-tracker.apk" target="_blank">
+  <a href="https://github.com/ShaniaKamikazi/Flutter_Smart_Expense_Tracker/releases/download/v1.0.0/Smart_Expense_Tracker.apk" target="_blank">
     <img alt="Download APK" src="https://img.shields.io/badge/Download%20APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=34A853" />
   </a>
 </p>
@@ -331,3 +331,4 @@ Add your contact or support channel here:
 ---
 
 Empowering financial wellness through intelligent design, robust architecture, and delightful user experience—thanks for exploring, and happy tracking!
+
